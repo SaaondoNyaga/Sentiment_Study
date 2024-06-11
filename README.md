@@ -1,1 +1,1 @@
-# Sentiment_Study
+The codes in this file tries to scrap passengers review from the BA official site using the BeautifulSoup python library and attempts to clean the data, and filter negative reviews and positive reviews for onward action.
